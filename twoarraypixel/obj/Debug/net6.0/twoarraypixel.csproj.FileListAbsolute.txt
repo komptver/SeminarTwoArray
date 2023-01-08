@@ -1,0 +1,15 @@
+E:\GEEKBRAINS\Arrays\twoarraypixel\bin\Debug\net6.0\twoarraypixel.exe
+E:\GEEKBRAINS\Arrays\twoarraypixel\bin\Debug\net6.0\twoarraypixel.deps.json
+E:\GEEKBRAINS\Arrays\twoarraypixel\bin\Debug\net6.0\twoarraypixel.runtimeconfig.json
+E:\GEEKBRAINS\Arrays\twoarraypixel\bin\Debug\net6.0\twoarraypixel.dll
+E:\GEEKBRAINS\Arrays\twoarraypixel\bin\Debug\net6.0\twoarraypixel.pdb
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.csproj.AssemblyReference.cache
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.AssemblyInfoInputs.cache
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.AssemblyInfo.cs
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.csproj.CoreCompileInputs.cache
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.dll
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\refint\twoarraypixel.dll
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.pdb
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\twoarraypixel.genruntimeconfig.cache
+E:\GEEKBRAINS\Arrays\twoarraypixel\obj\Debug\net6.0\ref\twoarraypixel.dll
