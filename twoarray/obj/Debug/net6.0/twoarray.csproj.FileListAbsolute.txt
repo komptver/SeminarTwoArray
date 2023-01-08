@@ -1,0 +1,15 @@
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.csproj.AssemblyReference.cache
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.AssemblyInfoInputs.cache
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.AssemblyInfo.cs
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.csproj.CoreCompileInputs.cache
+E:\GEEKBRAINS\Arrays\twoarray\bin\Debug\net6.0\twoarray.exe
+E:\GEEKBRAINS\Arrays\twoarray\bin\Debug\net6.0\twoarray.deps.json
+E:\GEEKBRAINS\Arrays\twoarray\bin\Debug\net6.0\twoarray.runtimeconfig.json
+E:\GEEKBRAINS\Arrays\twoarray\bin\Debug\net6.0\twoarray.dll
+E:\GEEKBRAINS\Arrays\twoarray\bin\Debug\net6.0\twoarray.pdb
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.dll
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\refint\twoarray.dll
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.pdb
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\twoarray.genruntimeconfig.cache
+E:\GEEKBRAINS\Arrays\twoarray\obj\Debug\net6.0\ref\twoarray.dll
