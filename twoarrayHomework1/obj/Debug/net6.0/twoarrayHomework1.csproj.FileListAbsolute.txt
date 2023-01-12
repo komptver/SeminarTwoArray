@@ -1,0 +1,15 @@
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\bin\Debug\net6.0\twoarrayHomework1.exe
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\bin\Debug\net6.0\twoarrayHomework1.deps.json
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\bin\Debug\net6.0\twoarrayHomework1.runtimeconfig.json
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\bin\Debug\net6.0\twoarrayHomework1.dll
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\bin\Debug\net6.0\twoarrayHomework1.pdb
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.csproj.AssemblyReference.cache
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.AssemblyInfoInputs.cache
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.AssemblyInfo.cs
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.csproj.CoreCompileInputs.cache
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.dll
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\refint\twoarrayHomework1.dll
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.pdb
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\twoarrayHomework1.genruntimeconfig.cache
+E:\GEEKBRAINS\CSHARH\Arrays\twoarrayHomework1\obj\Debug\net6.0\ref\twoarrayHomework1.dll
